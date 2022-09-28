@@ -1,6 +1,6 @@
 # Big Food Vision
 
-try to beat ~50.7% in original food101 [paper](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/static/bossard_eccv14_food-101.pdf)
+try to beat ~50.7% accuracy in original food101 [paper](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/static/bossard_eccv14_food-101.pdf)
 
 throughout of this notebook we will use jupyter notebook , pandas , numpy, matplotlib , scikit-learn(when its needed) and Tensorflow.
 
